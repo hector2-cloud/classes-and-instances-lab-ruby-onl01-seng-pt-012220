@@ -1,6 +1,6 @@
 class Dog 
-  fido 
-    snoopy
-    lassie 
+  fido.new
+    snoopy.new
+    lassie.new
   end
   
